@@ -14,7 +14,7 @@ CV_FOLDER = 'CV1'
 DB_FILE = 'cv_matching.db'
 TABLE_NAME = 'candidate_match_results'
 SENDER_EMAIL = 'jakhar.pankaj0903@gmail.com'
-SENDER_PASSWORD = 'pfnz adci xxgv edps'
+SENDER_PASSWORD = ''
 INTERVIEW_DATE = "2025-04-13"
 TIME_SLOTS = [0, 30, 60, 90, 120, 150, 180, 210]
 
