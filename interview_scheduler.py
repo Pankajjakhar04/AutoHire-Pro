@@ -6,7 +6,7 @@ from email.message import EmailMessage
 
 # Replace with your email and app password
 SENDER_EMAIL = 'jakhar.pankaj0903@gmail.com'
-SENDER_PASSWORD = 'pfnz adci xxgv edps'  # App Password (NOT your regular Gmail password)
+SENDER_PASSWORD = ''  # App Password (NOT your regular Gmail password)
 
 
 # === Generate Interview Time Slot ===
